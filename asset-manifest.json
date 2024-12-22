@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lunhua/static/css/main.30f74417.css",
-    "main.js": "/lunhua/static/js/main.32ed338b.js",
-    "static/media/aloc.jpg": "/lunhua/static/media/aloc.80479490e9c5bb02e8db.jpg",
-    "static/media/avinh.jpg": "/lunhua/static/media/avinh.60d680980ea8091ebe6a.jpg",
-    "static/media/vi.png": "/lunhua/static/media/vi.e8c435767859d7d4f5b1.png",
-    "static/media/ctheu.jpg": "/lunhua/static/media/ctheu.83ead14078e29d498755.jpg",
-    "static/media/beans_sprout.jpg": "/lunhua/static/media/beans_sprout.60869e18e64cd7b64829.jpg",
-    "static/media/maysang.png": "/lunhua/static/media/maysang.8a82bea1ca07f000fa4b.png",
-    "static/media/maygiatvi.png": "/lunhua/static/media/maygiatvi.308b0255619cce7bc8a5.png",
-    "static/media/kem.png": "/lunhua/static/media/kem.fd3bc189595cfe03b120.png",
-    "static/media/logo.svg": "/lunhua/static/media/logo.17dfbbf79a3cdd4786ce8b7619b39eea.svg",
-    "static/media/lunhuaTP.jpg": "/lunhua/static/media/lunhuaTP.9346febe41f493e3768a.jpg",
-    "index.html": "/lunhua/index.html",
-    "main.30f74417.css.map": "/lunhua/static/css/main.30f74417.css.map",
-    "main.32ed338b.js.map": "/lunhua/static/js/main.32ed338b.js.map"
+    "main.css": "/static/css/main.30f74417.css",
+    "main.js": "/static/js/main.e17e0bb3.js",
+    "static/media/aloc.jpg": "/static/media/aloc.80479490e9c5bb02e8db.jpg",
+    "static/media/avinh.jpg": "/static/media/avinh.60d680980ea8091ebe6a.jpg",
+    "static/media/vi.png": "/static/media/vi.e8c435767859d7d4f5b1.png",
+    "static/media/ctheu.jpg": "/static/media/ctheu.83ead14078e29d498755.jpg",
+    "static/media/beans_sprout.jpg": "/static/media/beans_sprout.60869e18e64cd7b64829.jpg",
+    "static/media/maysang.png": "/static/media/maysang.8a82bea1ca07f000fa4b.png",
+    "static/media/maygiatvi.png": "/static/media/maygiatvi.308b0255619cce7bc8a5.png",
+    "static/media/kem.png": "/static/media/kem.fd3bc189595cfe03b120.png",
+    "static/media/logo.svg": "/static/media/logo.17dfbbf79a3cdd4786ce8b7619b39eea.svg",
+    "static/media/lunhuaTP.jpg": "/static/media/lunhuaTP.9346febe41f493e3768a.jpg",
+    "index.html": "/index.html",
+    "main.30f74417.css.map": "/static/css/main.30f74417.css.map",
+    "main.e17e0bb3.js.map": "/static/js/main.e17e0bb3.js.map"
   },
   "entrypoints": [
     "static/css/main.30f74417.css",
-    "static/js/main.32ed338b.js"
+    "static/js/main.e17e0bb3.js"
   ]
 }
